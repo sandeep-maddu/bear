@@ -1,0 +1,3 @@
+This is a projected I created from lesson 2 of fastai. In this project i learned how to build an image identification model using neural network. This project is deployed on heroku. You can find the web app by following this link: https://findabear.herokuapp.com/
+
+Even though this project  was a challenge for me considering my lack of fundamental knowledge in deep learning, I was able to build a vision classification model and deploy it successfully online. I would like to extend my profound gratitude to Jeremy (founder of Fastai) for creating this awesome software and course for people like us who have the passion to delve into AI but may not have the financial resource and time to commit fully to it.
